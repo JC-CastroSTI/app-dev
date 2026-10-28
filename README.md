@@ -1,2 +1,2 @@
-# app-dev
-My first repository
+# Avatar: The Last Airbender (ATLA) 
+is a critically acclaimed animated series set in an Asian-inspired world where people can telekinetically control one of four elements: Water, Earth, Fire, or Air. The story follows Aang, a 12-year-old boy who is the Avatar—the unique individual capable of mastering all four elements. After being frozen in an iceberg for a century, Aang awakens to find the Fire Nation has waged a brutal war against the other nations. Along with his friends, Aang must travel the world to master the elements and defeat the Fire Lord to restore global peace and balance.
